@@ -1,0 +1,8 @@
+/*.usdz
+  Content-Type: model/vnd.usdz+zip
+
+/*.glb
+  Content-Type: model/gltf-binary
+
+/index.html
+  Content-Type: text/html; charset=utf-8
